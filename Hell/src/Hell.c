@@ -15,7 +15,8 @@ int main(void) {
 
 	puts("!!!Hello World!!!"); /* prints !!!Hello World!!! */
 	puts("!!!You Are Beautiful!!!"); /* prints !!!Hello World!!! */
-	puts("!!!Just Stay!!!"); /* prints !!!Hello World!!! */
+	puts("!!!XYZ!!!"); /* prints !!!Hello World!!! */
+	puts("!!!XYZ!!!"); /* prints !!!Hello World!!! */
 
 
 	return EXIT_SUCCESS;
